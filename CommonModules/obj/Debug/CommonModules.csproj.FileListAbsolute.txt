@@ -1,0 +1,6 @@
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\bin\Debug\CommonModules.dll
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\bin\Debug\CommonModules.pdb
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\obj\Debug\CommonModules.csproj.AssemblyReference.cache
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\obj\Debug\CommonModules.csproj.CoreCompileInputs.cache
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\obj\Debug\CommonModules.dll
+C:\projects\cSharp\proMvc5\SimpleAppMvc\CommonModules\obj\Debug\CommonModules.pdb
